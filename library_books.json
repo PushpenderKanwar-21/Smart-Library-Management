@@ -1,0 +1,86 @@
+[
+  {
+    "id": "101",
+    "title": "Harry Potter",
+    "author": "J.K. Rowling",
+    "category": "Fiction",
+    "available": true
+  },
+  {
+    "id": "102",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "available": true
+  },
+  {
+    "id": "103",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fiction",
+    "available": true
+  },
+  {
+    "id": "104",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Fiction",
+    "available": true
+  },
+  {
+    "id": "105",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Non-Fiction",
+    "available": true
+  },
+  {
+    "id": "106",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "category": "Non-Fiction",
+    "available": true
+  },
+  {
+    "id": "107",
+    "title": "Think Like a Monk",
+    "author": "Jay Shetty",
+    "category": "Non-Fiction",
+    "available": true
+  },
+  {
+    "id": "108",
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "category": "Non-Fiction",
+    "available": true
+  },
+  {
+    "id": "109",
+    "title": "Oxford Dictionary",
+    "author": "Oxford",
+    "category": "Reference",
+    "available": true
+  },
+  {
+    "id": "110",
+    "title": "English Grammar",
+    "author": "Wren & Martin",
+    "category": "Reference",
+    "available": true
+  },
+  {
+    "id": "111",
+    "title": "Computer Fundamentals",
+    "author": "P.K. Sinha",
+    "category": "Reference",
+    "available": true
+  },
+  {
+    "id": "112",
+    "title": "Operating System Concepts",
+    "author": "Silberschatz",
+    "category": "Reference",
+    "available": true
+  }
+]
